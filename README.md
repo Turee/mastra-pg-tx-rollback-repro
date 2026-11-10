@@ -61,5 +61,5 @@ BUG: the rejected saveMessages was committed by an unrelated transaction
 ## Environment
 
 - `@mastra/pg` 1.35.0, `@mastra/core` 1.81.0, `pg` 8.23.1 (`pg-pool` 3.14.0)
-- Node 26.12.1, npm, macOS
+- Node 26.12.1, npm 12.2.1, macOS 27.2
 - PostgreSQL 18.6
